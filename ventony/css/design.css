@@ -1,3 +1,15 @@
+/* 가운데 정렬 */
+.wrap {
+    max-width: 120rem;
+    min-width: 32rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    box-sizing: border-box;
+    padding: 2.5rem 1rem;
+    gap: 1rem;
+}
+
 /* 리눅스 컨테이너 박스 위 */
 .container {
     width: 230px;
