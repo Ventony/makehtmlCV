@@ -103,7 +103,7 @@
   }
   
   .terminal_cursor {
-    display: block;
+    display: inline-block;
     height: 14px;
     width: 5px;
     margin-left: 10px;
