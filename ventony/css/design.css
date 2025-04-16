@@ -4,6 +4,7 @@
     min-width: 32rem;
     display: flex;
     justify-content: center;
+    align-items: center; /* 수직 가운데 정렬 */
     flex-direction: column;
     box-sizing: border-box;
     padding: 2.5rem 1rem;
